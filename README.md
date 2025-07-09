@@ -1,4 +1,4 @@
-# <img src="images/logo_t3.png" alt="Logo" width="50" height="25"> BASIC Test Suite
+# <img src="images/BasicTestSuite.png" alt="Logo" width="50" height="25"> BASIC Test Suite
 
 This is a collection of BASIC programs that will exercise various features of the langauge.
 
