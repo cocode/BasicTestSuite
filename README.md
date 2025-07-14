@@ -10,7 +10,9 @@ This is is part of the TrekBasic family of BASIC programming tools.
 * [BasicTestSuite](https://github.com/cocode/BasicTestSuite) - A test suite of BASIC Programs
 * [TrekBot](https://github.com/cocode/TrekBot) - A tool to exercise the superstartrek program
 
-The Basic Test Suite  is used by TrekBasic, TrekBasicJ and BasicRS, three versions of BASIC that we have implemental. All of those projects are committed to supporting exactly the same langauge, and this suite is used to verify that. 
+All versions are intended to by byte-by-byte compatible, but are not
+there yet - but they are close. TrekBot and BasicTestSuite are part of the
+plan to verify full compatibility.
 
 Test runners (in Python, Java and Rust) simply iterate over all *.bas files found in the directory. Those test runners are found in their respective projects, above.
 
