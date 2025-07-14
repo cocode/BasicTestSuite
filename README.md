@@ -4,13 +4,13 @@ This is a collection of BASIC programs that will exercise various features of th
 
 
 This is is part of the TrekBasic family of BASIC programming tools.
-* [TrekBasic](https://github.com/cocode/TrekBASIC) - Python version
-* [TrekBasicJ](https://github.com/cocode/TrekBasicJ) - Java Version
-* [BasicRS](https://github.com/cocode/BasicRS) - Rust version
+* [TrekBasic](https://github.com/cocode/TrekBASIC) - Basic compiler and interpreter in Python
+* [TrekBasicJ](https://github.com/cocode/TrekBasicJ) - Basic compiler and interpreter in Java
+* [BasicRS](https://github.com/cocode/BasicRS) - Basic compiler written in Rust
 * [BasicTestSuite](https://github.com/cocode/BasicTestSuite) - A test suite of BASIC Programs
 * [TrekBot](https://github.com/cocode/TrekBot) - A tool to exercise the superstartrek program
 
-The Basic Test Suite  is used by TrekBasic, TrekBasicJ and BasicRS, three implementations of BASIC that we have implemental. All of those projects are committed to supporting exactly the same langauge, and this suite is used to verify that. 
+The Basic Test Suite  is used by TrekBasic, TrekBasicJ and BasicRS, three versions of BASIC that we have implemental. All of those projects are committed to supporting exactly the same langauge, and this suite is used to verify that. 
 
 Test runners (in Python, Java and Rust) simply iterate over all *.bas files found in the directory. Those test runners are found in their respective projects, above.
 
