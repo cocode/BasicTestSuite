@@ -1,18 +1,21 @@
-# <img src="images/BasicTestSuite.png" alt="Logo" width="50" height="25"> BASIC Test Suite
+# <img src="images/BasicTestSuiteLogo3.png" alt="Logo" width="50" height="25"> BASIC Test Suite
 
 This is a collection of BASIC programs that will exercise various features of the langauge.
 
 
-This is is part of the TrekBasic family of BASIC programming tools.
+This is part of the TrekBasic family of BASIC programming tools.
+
 * [TrekBasic](https://github.com/cocode/TrekBASIC) - Basic compiler and interpreter in Python
 * [TrekBasicJ](https://github.com/cocode/TrekBasicJ) - Basic compiler and interpreter in Java
 * [BasicRS](https://github.com/cocode/BasicRS) - Basic compiler written in Rust
 * [BasicTestSuite](https://github.com/cocode/BasicTestSuite) - A test suite of BASIC Programs
 * [TrekBot](https://github.com/cocode/TrekBot) - A tool to exercise the superstartrek program
 
-All versions are intended to by byte-by-byte compatible, but are not
+All versions, intepreted and compiled, are intended to by byte-by-byte compatible, but are not
 there yet - but they are close. TrekBot and BasicTestSuite are part of the
-plan to verify full compatibility.
+plan to ensure full compatibility.
+
+## Test Runners
 
 Test runners (in Python, Java and Rust) simply iterate over all *.bas files found in the directory. Those test runners are found in their respective projects, above.
 
